@@ -23,8 +23,8 @@
   #
   #     $ conda deactivate
 
-  ### Remove sdf env
-  (sdf) conda remove --name sdf --all
+### Remove sdf env
+- (sdf) conda remove --name sdf --all
   
-  ### OpenCV Python install
-  (sdf) pip install opencv-python==4.4.0.46
+### OpenCV Python install
+- (sdf) pip install opencv-python==4.4.0.46
