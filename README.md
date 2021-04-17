@@ -14,14 +14,14 @@
 ###  (sdf) python -m ipykernel install --user --name sdf --display-name "Python SDF"
 ###  (sdf) conda install -c conda-forge jupyterlab
 
- #
- # To activate this environment, use
- #
- #     $ conda activate sdf
- #
- # To deactivate an active environment, use
- #
- #     $ conda deactivate
+  #
+  # To activate this environment, use
+  #
+  #     $ conda activate sdf
+  #
+  # To deactivate an active environment, use
+  #
+  #     $ conda deactivate
 
 ### Remove sdf env
 - (sdf) conda remove --name sdf --all
