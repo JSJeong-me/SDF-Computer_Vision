@@ -1,5 +1,8 @@
 # SDF-Computer_Vision
 
+![guage-reader](https://user-images.githubusercontent.com/54794815/115826804-6ab75d80-a446-11eb-90f3-122d6aeedb49.jpg)
+
+
 서울디지털재단 Youtube 강의 - Computer Vision
 
 
