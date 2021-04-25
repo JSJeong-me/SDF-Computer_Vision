@@ -31,4 +31,6 @@
   
 ### OpenCV Python install
 - (sdf) pip install opencv-python==4.4.0.46
-- 
+
+### 또는
+- (sdf) pip install -r requirements.txt
